@@ -34,6 +34,6 @@ O primeiro Ponto que abordamos com o cliente foi em relação ao Mockup, Seguimo
     
 ## :Documentação
 
-- Aqui vai o link da domentação
+- Aqui vai o link da documentação
 
 → [Voltar ao topo](#topo)

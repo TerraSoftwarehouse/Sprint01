@@ -19,6 +19,8 @@ Os objetivos dessa Sprint foi a entrega do prototipo ao cliente.
         
 ## :rocket: Entregas
 O primeiro Ponto que abordamos com o cliente foi em relação ao Mockup, Seguimos as cores e fontes do Site do proprio cliente (http://www.fatecsp.br/).
+    
+<img src="https://github.com/linguanotto/projetoScrumFatec/blob/Master/imagens/Fontes%20e%20cores.jpg" height = 700 />     
 
 
 → [Voltar ao topo](#topo)

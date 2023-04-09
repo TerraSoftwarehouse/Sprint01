@@ -25,10 +25,13 @@
 <img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/Backlog.jpg" height = 700 />
    
 - Posteriormente, realizamos a elaboração do backlog do produto, tendo em vista não somente o objetivo central de entrega do protótipo, mas também a necessidade de estudos relacionados ao desenvolvimento front-end e levantamento de conteúdo a ser agregado ao site. Nesse sentido, foram definidas as prioridades de cada tarefa, com o intuito de orientar a equipe e garantir o cumprimento dos objetivos propostos.    
+<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/Sprint%2001%20prioridades.jpg" height = 700 /> 
     
-<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/Sprint%2001%20prioridades.jpg" height = 700 />    
+Procedemos com a implementação do Kanban, utilizando a técnica de coloração de texto para facilitar a visualização das prioridades de cada tarefa pelos membros da equipe. Cada colaborador teve a liberdade de selecionar a atividade que melhor se adequava a suas habilidades e interesses.
+<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/kanban%20a%20fazer.jpg" height = 700 />        
 
-<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/fun%C3%A7%C3%B5es.jpg" height = 250 />
+-Por meio do gráfico de burndown, realizamos a estimativa do tempo necessário para a conclusão de cada atividade e monitoramos o andamento de cada uma delas, a fim de garantir o cumprimento dos prazos estabelecidos. Além disso, essa ferramenta proporcionou uma visão global do projeto, permitindo a identificação de possíveis ajustes na alocação da equipe, embora não tenha sido necessário na presente sprint.
+<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/grafico%20de%20burndown.jpg" height = 700 /> 
     
 - Nessa sprint dividimos o time em duas partes, enquanto uma estava cuidando do prototipo, a outra parte se dedicou a estudo e levantamento de conhecimento tecnico para que pudessemos dar andamento nas proximas sprints sem maiores problemas. 
     

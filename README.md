@@ -4,8 +4,8 @@
 
 <p align="center">
     <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
-    <a href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
     <a href="#metricas">Métricas do time</a> &nbsp |&nbsp &nbsp
+    <a href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
     <a href="#documentação">Documentação</a>
 </p>
 
@@ -15,20 +15,19 @@
 ## :dart: Objetivos da Sprint
 Os objetivos dessa Sprint foi a entrega do prototipo ao cliente.
 
-<span id="entregas">
-        
-## :rocket: Entregas
-O primeiro Ponto que abordamos com o cliente foi em relação ao Mockup, Seguimos as cores e fontes do Site do proprio cliente (http://www.fatecsp.br/).
-
-
-→ [Voltar ao topo](#topo)
 
 <span id="metricas">
     
 ## :chart_with_upwards_trend: Métricas do time
 - Nessa sprint dividimos o time em duas partes, enquanto uma estava cuidando do prototipo, a outra parte se dedicou a estudo e levantamento de conhecimento tecnico para que pudessemos dar andamento nas proximas sprints sem maiores problemas. 
     
-    
+<span id="entregas">
+        
+## :rocket: Entregas
+O primeiro Ponto que abordamos com o cliente foi em relação ao Mockup, Seguimos as cores e fontes do Site do proprio cliente (http://www.fatecsp.br/).
+
+
+→ [Voltar ao topo](#topo)    
     
 <span id="documentação">
     

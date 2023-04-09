@@ -39,8 +39,17 @@ Procedemos com a implementação do Kanban, utilizando a técnica de coloração
 <span id="entregas">
         
 ## :rocket: Entregas
-O primeiro Ponto que abordamos com o cliente foi em relação ao Mockup, Seguimos as cores e fontes do Site do proprio cliente (http://www.fatecsp.br/).
+-O primeiro aspecto abordado junto ao cliente consistiu na validação do mockup, o qual foi desenvolvido com base nas cores e fontes utilizadas no site do próprio cliente. (http://www.fatecsp.br/).
+    
+<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/Fontes%20e%20cores.jpg" height = 700 />     
 
+    
+ -Após a definição dos requisitos técnicos do site, foram conduzidos os processos de criação do protótipo. Inicialmente, foi desenvolvido um desenho manual para visualização da estrutura básica do site. Em seguida, esse desenho foi aprimorado com cores e definições de layout, incluindo a disposição de cada conteúdo na interface. Finalmente, foi criado um protótipo navegável que reproduz com fidelidade o funcionamento do site. Cada etapa foi submetida a uma avaliação e aprovação por parte do cliente, com discussões e sugestões de ajustes para garantir a adequação às expectativas.
+    
+<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/wireframe-b.gif" /> 
+<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/site-v1-b.gif" /> 
+<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/site-v2-b.gif" /> 
+<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/site-v4-b.gif" />     
 
 → [Voltar ao topo](#topo)    
     

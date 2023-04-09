@@ -33,7 +33,8 @@ Procedemos com a implementação do Kanban, utilizando a técnica de coloração
 -Por meio do gráfico de burndown, realizamos a estimativa do tempo necessário para a conclusão de cada atividade e monitoramos o andamento de cada uma delas, a fim de garantir o cumprimento dos prazos estabelecidos. Além disso, essa ferramenta proporcionou uma visão global do projeto, permitindo a identificação de possíveis ajustes na alocação da equipe, embora não tenha sido necessário na presente sprint.
 <img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/grafico%20de%20burndown.jpg" height = 700 /> 
     
-- Nessa sprint dividimos o time em duas partes, enquanto uma estava cuidando do prototipo, a outra parte se dedicou a estudo e levantamento de conhecimento tecnico para que pudessemos dar andamento nas proximas sprints sem maiores problemas. 
+-Com a utilização do Kanban, cada membro da equipe atribuiu sua cor e assumiu a responsabilidade pelo auto-gerenciamento das atividades a serem realizadas e já concluídas. A utilização das cores de cada colaborador facilitou a identificação visual das tarefas pendentes ou a serem entregues, permitindo a rápida identificação de possíveis gargalos no andamento do projeto.
+<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/kanban.jpg" height = 700 /> 
     
 <span id="entregas">
         

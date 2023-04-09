@@ -13,7 +13,7 @@
 <span id="objetivos">
     
 ## :dart: Objetivos da Sprint
-Os objetivos dessa Sprint foi a entrega do prototipo ao cliente.
+Os objetivos desta sprint foram centrados na entrega do protótipo navegável ao cliente. Entretanto, devido à falta de conhecimentos técnicos em algumas áreas até o início da sprint, houve a necessidade de dividir a equipe. Dessa forma, uma parte pôde dedicar-se ao estudo e aquisição dos conhecimentos necessários para a próxima sprint. Isso garantiu não apenas o êxito e cumprimento do prazo desta sprint, mas também das futuras entregas. 
 
 
 <span id="metricas">

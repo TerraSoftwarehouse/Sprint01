@@ -25,7 +25,7 @@
 <img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/Backlog.jpg" height = 700 />
    
 - Posteriormente, realizamos a elaboração do backlog da Sprint, tendo em vista não somente o objetivo central de entrega do protótipo, mas também a necessidade de estudos relacionados ao desenvolvimento front-end e levantamento de conteúdo a ser agregado ao site. Nesse sentido, foram definidas as prioridades de cada tarefa, com o intuito de orientar a equipe e garantir o cumprimento dos objetivos propostos.    
-<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/Sprint%2001%20prioridades.jpg" height = 700 /> 
+<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/Sprint%2001%20prioridades-240.jpg" height = 700 /> 
     
 Procedemos com a implementação do Kanban, utilizando a técnica de coloração de texto para facilitar a visualização das prioridades de cada tarefa pelos membros da equipe. Cada colaborador teve a liberdade de selecionar a atividade que melhor se adequava a suas habilidades e interesses.
 <img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/kanban%20a%20fazer.jpg" height = 700 />        

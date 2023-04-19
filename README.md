@@ -62,7 +62,7 @@ Procedemos com a implementação do Kanban, utilizando a técnica de coloração
 ## Documentação:
 
 <ul>
-<li><a href="https://github.com/TerraSoftwarehouse/Documentacao/blob/main/README.md"> <strong>Clique aqui para visualizar a documentação.</Strong><a/></li>
+<li><a href="https://github.com/TerraSoftwarehouse/Documentacao/blob/main/README.md"> <strong>Sprint 1</Strong><a/></li>
 </ul>
 
 → [Voltar ao topo](#topo)
